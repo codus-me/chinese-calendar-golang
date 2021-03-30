@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/ganzhi"
-	"github.com/Lofanmi/chinese-calendar-golang/lunar"
-	"github.com/Lofanmi/chinese-calendar-golang/solar"
+	"github.com/codus-me/chinese-calendar-golang/ganzhi"
+	"github.com/codus-me/chinese-calendar-golang/lunar"
+	"github.com/codus-me/chinese-calendar-golang/solar"
 )
 
 // Calendar 日历

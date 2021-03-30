@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/animal"
+	"github.com/codus-me/chinese-calendar-golang/animal"
 )
 
 func TestFromSolarTimestamp(t *testing.T) {

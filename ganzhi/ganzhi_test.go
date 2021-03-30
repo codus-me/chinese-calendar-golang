@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Lofanmi/chinese-calendar-golang/animal"
-	"github.com/Lofanmi/chinese-calendar-golang/gan"
-	"github.com/Lofanmi/chinese-calendar-golang/solarterm"
-	"github.com/Lofanmi/chinese-calendar-golang/zhi"
+	"github.com/codus-me/chinese-calendar-golang/animal"
+	"github.com/codus-me/chinese-calendar-golang/gan"
+	"github.com/codus-me/chinese-calendar-golang/solarterm"
+	"github.com/codus-me/chinese-calendar-golang/zhi"
 )
 
 func TestNewGanzhi(t *testing.T) {
